@@ -24,11 +24,10 @@ Para rodar este projeto, você precisará de:
 - Bibliotecas Python:
   - `pyautogui` 🎮
   - `pyperclip` 📋
-  - `numpy` ➗ (para manipulação de dados)
-  - `pandas` 📊
+  - `numpy` ➗ 
 
 Para instalar as dependências, basta executar:
 
 ```bash
-pip install pyautogui pyperclip numpy pandas
+pip install pyautogui pyperclip numpy
 
